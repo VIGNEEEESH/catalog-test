@@ -20,20 +20,20 @@ This project implements a simplified version of Shamir's Secret Sharing algorith
 ## Usage
 Run the script using:
 ```sh
-node script.js
+node catalog.js
 ```
 Ensure `testcase1.json` and `testcase2.json` exist in the project directory.
 
 ## File Structure
-- `script.js` - Main execution file.
+- `catalog.js` - Main execution file.
 - `testcase1.json` - First test case data.
 - `testcase2.json` - Second test case data.
 
 ## Output
 The script prints:
 ```
-Secret for Test Case 1: <value>
-Secret for Test Case 2: <value>
+Secret for Test Case 1: <3>
+Secret for Test Case 2: <79836264050688>
 ```
 
 ## Notes
